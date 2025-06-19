@@ -17,3 +17,9 @@ http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_premium_hd&token=Ym9ye
 #EXTINF:-0 group-title="Кино и Сериалы ©" tvg-logo="https://epg.iptvx.one/picons/vip-comedy.png" tvg-id="vip-comedy" tvg-name="Viju+ Comedy HD"  catchup="append" catchup-days="3" catchup-source="&offset=${offset}", Viju+ Comedy ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_comedy_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-0 group-title="Кино и Сериалы ©" tvg-logo="https://epg.iptvx.one/picons/vip-serial.png" tvg-id="vip-serial" tvg-name="Viju+ Serial HD" catchup="append" catchup-days="3" catchup-source="&offset=${offset}", Viju+ Serial
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=viasat_golf_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 group-title="Кино и Сериалы ©" tvg-logo="https://epg.iptvx.one/picons/sony.png" tvg-id="sony-tv" tvg-name=".Red"  catchup="append" catchup-days="3" catchup-source="&offset=${offset}", .Red
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=set&token=Ym9yeW43ODpMYW5jZXIxNg==
