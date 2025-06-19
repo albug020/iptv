@@ -2,3 +2,18 @@
 #EXTINF:-0 group-title="Кино и Сериалы ©" tvg-logo="https://epg.iptvx.one/picons/tv1000.png" tvg-id="tv1000" tvg-name="Viju TV1000" catchup="append" catchup-days="3" catchup-source="&offset=${offset}", Viju TV1000 ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-0 group-title="Кино и Сериалы ©"  tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png" tvg-id="tv1000-action" tvg-name="Viju TV1000 Action"  catchup="append" catchup-days="3" catchup-source="&offset=${offset}", Viju TV1000 Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_action&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-0 group-title="Кино и Сериалы ©" tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" tvg-name="Viju TV1000 Русское кино" catchup="append" catchup-days="3" catchup-source="&offset=${offset}", Viju TV1000 Русское кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv_1000_rus_kino&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-0 group-title="Кино и Сериалы ©" tvg-logo="https://epg.iptvx.one/picons/vip-megahit.png" tvg-id="vip-megahit" tvg-name="Viju+ Megahit HD" catchup="append" catchup-days="3" catchup-source="&offset=${offset}", Viju+ Megahit ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_megahit_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-0 group-title="Кино и Сериалы ©" tvg-logo="https://epg.iptvx.one/picons/vip-premiere.png" tvg-id="vip-premiere" tvg-name="Viju+ Premiere HD" catchup="append" catchup-days="3" catchup-source="&offset=${offset}", Viju+ Premiere ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_premium_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-0 group-title="Кино и Сериалы ©" tvg-logo="https://epg.iptvx.one/picons/vip-comedy.png" tvg-id="vip-comedy" tvg-name="Viju+ Comedy HD"  catchup="append" catchup-days="3" catchup-source="&offset=${offset}", Viju+ Comedy ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_comedy_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
