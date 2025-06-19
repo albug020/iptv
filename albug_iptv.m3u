@@ -1,0 +1,4 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-0 group-title="Кино и Сериалы ©" tvg-logo="https://epg.iptvx.one/picons/tv1000.png" tvg-id="tv1000" tvg-name="Viju TV1000" catchup="append" catchup-days="3" catchup-source="&offset=${offset}", Viju TV1000 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000&token=Ym9yeW43ODpMYW5jZXIxNg==
