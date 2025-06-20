@@ -41,5 +41,5 @@ http://list.onlinetv-sochi.ru:8080/live/arx.php?id=fan_hd&token=Ym9yeW43ODpMYW5j
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=37&token=Ym9yeW43ODpMYW5jZXIxNg==
 
 #EXTINF:-1 group-title="Премиум пакет" tvg-logo="https://epg.iptvx.one/picons/russky-roman.png" tvg-id="russky-roman" tvg-name="Русский роман HD" catchup="default" catchup-days="7" catchup-source="http://server-1.onlinetv-sochi.ru/live/channelA.php?id=66&utc=${start}", Русский Роман HD
-#EXTVLCOPT:http-user-agent=Videotester
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=66&token=Ym9yeW43ODpMYW5jZXIxNg==
