@@ -36,6 +36,9 @@ http://list.onlinetv-sochi.ru:8080/live/arx.php?id=ipark&token=Ym9yeW43ODpMYW5jZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=fan_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
 
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/idxtra.png" tvg-id="id-xtra-eu" tvg-name="ID Investigation Discovery EU" catchup="default" catchup-days="7" catchup-source="http://server-1.onlinetv-sochi.ru/live/channelA.php?id=37&utc=${start}", ID Xtra
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=37&token=Ym9yeW43ODpMYW5jZXIxNg==
+
 #EXTINF:-1 group-title="Премиум пакет" tvg-logo="https://epg.iptvx.one/picons/russky-roman.png" tvg-id="russky-roman" tvg-name="Русский роман HD" catchup="default" catchup-days="7" catchup-source="http://server-1.onlinetv-sochi.ru/live/channelA.php?id=66&utc=${start}", Русский Роман HD
 #EXTVLCOPT:http-user-agent=Videotester
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=66&token=Ym9yeW43ODpMYW5jZXIxNg==
