@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
+#EXTINF:-0 group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/2na2.png" tvg-id="2na2" tvg-name="2x2" catchup="default" catchup-days="3" catchup-source="http://server-2.onlinetv-sochi.ru:8080/tv/lime.php?id=1&index-${start}-${offset}.m3u8", 2x2 HD
+#EXTVLCOPT:http-user-agent= (  .  )
+http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=1&token=Ym9yeW43ODpMYW5jZXIxNg==
+
 #EXTINF:-0 group-title="Кино и Сериалы ©" tvg-logo="https://epg.iptvx.one/picons/trashtv.png" tvg-id="trashtv" tvg-name="Trash" catchup="default" catchup-days="3" catchup-source="http://server-2.onlinetv-sochi.ru:8080/tv/lime.php?id=4992&index-${start}-${offset}.m3u8", Trash
 #EXTVLCOPT:http-user-agent= (  .  )
 http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=4992&token=Ym9yeW43ODpMYW5jZXIxNg==
